@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MeroMed App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MeroMed App/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/MeroMed App/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/MeroMed App/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_login.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_maps.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/cart_items.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/fragment_cart.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/fragment_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/fragment_notifications.xml" value="0.209375" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/khadg/Desktop/finalassignment-RijenShahi-master/app/src/main/res/layout/product_item.xml" value="0.14814814814814814" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

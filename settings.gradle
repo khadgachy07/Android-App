@@ -1,0 +1,3 @@
+include 'meromed'
+include ':app'
+rootProject.name = "MeroMedApp"
